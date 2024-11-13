@@ -1,1 +1,1 @@
-Please open with main.exe
+Please open with main.exe file when created.
